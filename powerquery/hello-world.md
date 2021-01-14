@@ -2,7 +2,7 @@
 
 #powerquery #helloworld
 
-A simple hello world example in [[power-query]] consists of a *let*, *in*, *variables*, *functions.* A variable can contain spaces by writing it like this - #"variable name"bi.
+A simple hello world example in [[power-query]] consists of a *let*, *in*, *variables*, *functions.* A variable can contain spaces by writing it like this - #"variable name".
 
 ```M
 let
